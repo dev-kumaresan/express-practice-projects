@@ -1,13 +1,13 @@
 # express-practice-projects -
 <b>1.BOOKS DIRECTORY - </b><br>
-<hr><br>
+<br>
 
 # Packages Used - <br>
   * express<br>
   * mongoose<br>
   * body-parser<br>
   * nodemon<br>
-  * init<br><br><hr>
+  * init<br><br>
 
 # Fetch book details from database -
 /books/<br>
