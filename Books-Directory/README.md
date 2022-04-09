@@ -1,6 +1,4 @@
-# express-practice-projects -
-<b>1.BOOKS DIRECTORY - </b><br>
-<br>
+# 1.BOOKS DIRECTORY
 
 # Packages Used - <br>
   * express<br>
